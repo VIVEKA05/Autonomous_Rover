@@ -1,4 +1,12 @@
-# 🚗 Bluetooth & Autonomous Rover
+# 🚗 Bluetooth & Autonomous Rover System
+
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
+![Embedded C](https://img.shields.io/badge/Language-Embedded%20C-green)
+![Motor Driver](https://img.shields.io/badge/L298N-Motor%20Driver-orange)
+![Ultrasonic Sensor](https://img.shields.io/badge/HC--SR04-Ultrasonic-yellow)
+![Servo](https://img.shields.io/badge/Servo-Control-red)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-HC--05-blueviolet)
+![Mode](https://img.shields.io/badge/Mode-Manual%20%2B%20Autonomous-success)
 
 ## 📌 Project Overview
 This project implements a dual-mode smart rover using the Arduino Uno. 
